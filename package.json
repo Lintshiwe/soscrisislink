@@ -1,0 +1,45 @@
+{
+    "name": "crisislink",
+    "version": "1.0.0",
+    "description": "Real-Time Disaster Rescue Platform for South Africa",
+    "main": "index.js",
+    "scripts": {
+        "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+        "dev:frontend": "cd frontend && npm start",
+        "dev:backend": "cd backend && npm run dev",
+        "build": "npm run build:frontend && npm run build:backend",
+        "build:frontend": "cd frontend && npm install && npm run build",
+        "build:backend": "cd backend && npm install --production",
+        "start": "cd backend && npm start",
+        "start:production": "pm2 start ecosystem.config.js",
+        "stop:production": "pm2 stop ecosystem.config.js",
+        "restart:production": "pm2 restart ecosystem.config.js",
+        "install:all": "npm install && cd frontend && npm install && cd ../backend && npm install",
+        "migrate": "cd backend && npm run migrate",
+        "seed": "cd backend && npm run seed",
+        "db:setup": "cd backend && npm run db:migrate && npm run db:seed",
+        "deploy": "npm run build && npm run db:setup && npm run start:production",
+        "health:check": "curl -f http://localhost:3001/health || echo 'Health check failed'",
+        "logs": "pm2 logs",
+        "monitor": "pm2 monit",
+        "test": "concurrently \"cd frontend && npm test\" \"cd backend && npm test\"",
+        "lint": "concurrently \"cd frontend && npm run lint\" \"cd backend && npm run lint\""
+    },
+    "keywords": [
+        "emergency",
+        "disaster-response",
+        "south-africa",
+        "weather-monitoring",
+        "rescue",
+        "ibm-call-for-code"
+    ],
+    "author": "CrisisLink Team",
+    "license": "MIT",
+    "devDependencies": {
+        "concurrently": "^8.2.2"
+    },
+    "engines": {
+        "node": ">=18.0.0",
+        "npm": ">=9.0.0"
+    }
+}
