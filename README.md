@@ -1,14 +1,14 @@
 # 🚨 CrisisLink – Real-Time Disaster Rescue Platform
 
-![GitHub contributors](https://img.shields.io/github/contributors/your-username/soscrisislink?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/your-username/soscrisislink?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/your-username/soscrisislink?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/your-username/soscrisislink?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/your-username/soscrisislink?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/Lintshiwe/soscrisislink?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Lintshiwe/soscrisislink?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Lintshiwe/soscrisislink?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/Lintshiwe/soscrisislink?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/Lintshiwe/soscrisislink?style=for-the-badge)
 
-[![Emergency Response](https://img.shields.io/badge/Emergency-Response-red?style=for-the-badge)](https://github.com/your-username/soscrisislink)
-[![South Africa](https://img.shields.io/badge/Built%20for-South%20Africa-green?style=for-the-badge)](https://github.com/your-username/soscrisislink)
-[![PWA Ready](https://img.shields.io/badge/PWA-Ready-blue?style=for-the-badge)](https://github.com/your-username/soscrisislink)
+[![Emergency Response](https://img.shields.io/badge/Emergency-Response-red?style=for-the-badge)](https://github.com/Lintshiwe/soscrisislink)
+[![South Africa](https://img.shields.io/badge/Built%20for-South%20Africa-green?style=for-the-badge)](https://github.com/Lintshiwe/soscrisislink)
+[![PWA Ready](https://img.shields.io/badge/PWA-Ready-blue?style=for-the-badge)](https://github.com/Lintshiwe/soscrisislink)
 
 ## 🧭 Mission
 

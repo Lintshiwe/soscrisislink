@@ -71,7 +71,7 @@ We welcome contributions from the community! Here's how you can help:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/soscrisislink.git
+git clone https://github.com/Lintshiwe/soscrisislink.git
 cd soscrisislink
 
 # Install dependencies
