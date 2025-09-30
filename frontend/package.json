@@ -2,6 +2,12 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
+  "author": "lintshiwe (https://github.com/Lintshiwe)",
+  "contributors": [
+    "Leonard Kgodiso (https://github.com/kgodisoLeonard)",
+    "K Itow (https://github.com/Itow-K)",
+    "Brian (https://github.com/buhleBrian)"
+  ],
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",

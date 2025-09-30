@@ -33,7 +33,12 @@
         "rescue",
         "ibm-call-for-code"
     ],
-    "author": "CrisisLink Team",
+    "author": "lintshiwe (https://github.com/Lintshiwe)",
+    "contributors": [
+        "Leonard Kgodiso (https://github.com/kgodisoLeonard)",
+        "K Itow (https://github.com/Itow-K)",
+        "Brian (https://github.com/buhleBrian)"
+    ],
     "license": "MIT",
     "devDependencies": {
         "concurrently": "^8.2.2"

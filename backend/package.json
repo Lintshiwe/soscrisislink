@@ -51,7 +51,12 @@
         "disaster-response",
         "postgis"
     ],
-    "author": "CrisisLink Team",
+    "author": "lintshiwe (https://github.com/Lintshiwe)",
+    "contributors": [
+        "Leonard Kgodiso (https://github.com/kgodisoLeonard)",
+        "K Itow (https://github.com/Itow-K)",
+        "Brian (https://github.com/buhleBrian)"
+    ],
     "license": "MIT",
     "engines": {
         "node": ">=18.0.0"

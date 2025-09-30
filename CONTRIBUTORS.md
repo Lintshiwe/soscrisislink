@@ -1,32 +1,43 @@
 # 👥 Contributors
 
-This project was made possible by the collaborative efforts of our dedicated team members. We thank everyone who contributed to making SOSCrisisLink a reality.
+SOSCrisisLink is developed and maintained by **lintshiwe** with valuable contributions from dedicated team members.
 
-## 🏆 Core Development Team
+## 👑 Project Owner & Lead Developer
+
+### [@Lintshiwe](https://github.com/Lintshiwe)
+
+**lintshiwe** - _Project Founder & Lead Developer_
+
+- 🎯 **Role**: Project Owner, Lead Developer & System Architect
+- 💻 **Contributions**: Complete system architecture, full-stack development, project vision and direction
+- 🌟 **Expertise**: Emergency Response Systems, React, Node.js, PostgreSQL, Project Leadership
+- 📋 **Responsibilities**: Code reviews, deployment, project roadmap, technical decisions
+
+## 🤝 Contributing Team Members
 
 ### [@kgodisoLeonard](https://github.com/kgodisoLeonard)
 
-**Leonard Kgodiso**
+**Leonard Kgodiso** - _Contributing Developer_
 
-- 🛠️ **Role**: Core Developer & System Architect
-- 💻 **Contributions**: Backend infrastructure, database design, emergency response systems
-- 🌟 **Expertise**: Node.js, PostgreSQL, Emergency Systems Design
+- 🛠️ **Role**: Backend Developer & Database Specialist
+- 💻 **Contributions**: Backend infrastructure support, database optimization
+- 🌟 **Expertise**: Node.js, PostgreSQL, Database Design
 
 ### [@Itow-K](https://github.com/Itow-K)
 
-**K Itow**
+**K Itow** - _Contributing Developer_
 
-- 🛠️ **Role**: Frontend Developer & UX/UI Designer
-- 💻 **Contributions**: React components, responsive design, user interface optimization
-- 🌟 **Expertise**: React, TypeScript, Mobile-First Design, Emergency UX
+- 🛠️ **Role**: Frontend Developer & UI/UX Contributor
+- 💻 **Contributions**: React components, responsive design improvements
+- 🌟 **Expertise**: React, TypeScript, Mobile-First Design
 
 ### [@buhleBrian](https://github.com/buhleBrian)
 
-**Brian Buhle**
+**Brian Buhle** - _Contributing Developer_
 
-- 🛠️ **Role**: Full-Stack Developer & Integration Specialist
-- 💻 **Contributions**: API integration, service worker implementation, offline functionality
-- 🌟 **Expertise**: Progressive Web Apps, Service Workers, API Design
+- 🛠️ **Role**: Integration Specialist & PWA Contributor
+- 💻 **Contributions**: API integration support, service worker enhancements
+- 🌟 **Expertise**: Progressive Web Apps, Service Workers
 
 ## 🎯 Project Overview
 

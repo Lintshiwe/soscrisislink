@@ -1,7 +1,26 @@
 # 🚨 CrisisLink – Real-Time Disaster Rescue Platform
 
 ![GitHub contributors](https://img.shields.io/github/contributors/Lintshiwe/soscrisislink?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Lintshiwe/soscrisislink?style=for-the-badge)
+![GitHub stars](https://img.## 👥 Contributors
+
+**SOSCrisisLink** is developed and maintained by **[@Lintshiwe](https://github.com/Lintshiwe)** with contributions from:
+
+### 👑 Project Owner & Lead Developer
+
+- **[@Lintshiwe](https://github.com/Lintshiwe)** - _lintshiwe_
+  - Project founder, lead developer, and system architect
+  - Complete ownership of codebase and technical direction
+
+### 🤝 Contributing Team Members
+
+- **[@kgodisoLeonard](https://github.com/kgodisoLeonard)** - Leonard Kgodiso
+  - Backend development support and database optimization
+- **[@Itow-K](https://github.com/Itow-K)** - K Itow
+  - Frontend development and UI/UX improvements
+- **[@buhleBrian](https://github.com/buhleBrian)** - Brian Buhle
+  - Integration support and PWA enhancements
+
+*See [CONTRIBUTORS.md](./CONTRIBUTORS.md) for detailed contributor information and project roles.*hub/stars/Lintshiwe/soscrisislink?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Lintshiwe/soscrisislink?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/Lintshiwe/soscrisislink?style=for-the-badge)
 ![GitHub license](https://img.shields.io/github/license/Lintshiwe/soscrisislink?style=for-the-badge)
